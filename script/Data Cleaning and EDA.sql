@@ -45,6 +45,7 @@ SELECT *
 FROM dublicat_cte
 WHERE row_no > 1;
 
+-- copy to clipboard create statment
 -- creating new table with row numbers 
 CREATE TABLE `layoff` (
   `company` text,
