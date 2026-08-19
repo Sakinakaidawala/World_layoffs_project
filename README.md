@@ -1,5 +1,4 @@
-/*
-=========================================================================================
+
 Project: Global Tech Layoffs - Data Cleaning & Exploratory Data Analysis (EDA)
 Description: This script transforms a raw, messy dataset of global layoffs into a clean, 
              analyzable format, and then performs in-depth exploratory data analysis. 
@@ -14,8 +13,10 @@ Techniques & SQL Skills Demonstrated:
 - Conditional Logic: Dynamic CASE expressions for data categorization
 
 Script Structure:
+
 Phase 1: Database Setup & Data Cleaning (Removing duplicates, standardizing dates/strings)
+
 Phase 2: Basic Exploratory Data Analysis (Macro trends by company, industry, and country)
+
 Phase 3: Advanced Business Insights (MoM growth, repeat offenders, top 3 rankings)
-=========================================================================================
-*/
+
